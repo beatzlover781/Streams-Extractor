@@ -33,6 +33,9 @@
 
 ## Installation
 
+### Deploy to Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fbeatzlover781%2FStreams-Extractor&envs=API_HASH%2CAPP_ID%2CAUTH_USERS%2CBOT_TOKEN)
+
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Streams-Extractor)
 
